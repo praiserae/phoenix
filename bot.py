@@ -197,5 +197,3 @@ async def cmds(ctx):
     """
     await ctx.send(cmds_list)
 
-# Run the bot
-bot.run('MTMxNDMyNjg0MzMyNjk5MjQ5Nw.G4WLjC.FTENcRXiajbVUf-X9mLqX3idlDC1Ui-L2MlyW8')
